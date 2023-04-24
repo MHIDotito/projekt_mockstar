@@ -1,0 +1,35 @@
+[{
+        "name": "Ahoj kubo",
+        "description": "Ahoj kubo",
+        "url": "https://crack.com/",
+        "img": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd"
+    },
+    {
+        "name": "Sons Of The Foresrt",
+        "description": "lorem ipsum set amet", 
+        "url": "https://crack.com/",
+        "img": "https://img.etimg.com/thumb/msid-98415202,width-1100,height-619,imgsize-93800,overlay-economictimes/photo.jpg"
+    }, {
+        "name": "Subnautica",
+        "description": "Subnautica is a survival and exploration game set on an alien ocean planet. The player assumes the role of a survivor of a crashed spaceship, and must collect resources, build bases, and navigate the dangerous waters filled with hostile creatures in order to uncover the mysteries of the planet and find a way to escape. The game features an open-world environment and a storyline that unfolds as the player progresses, with a strong emphasis on crafting and survival mechanics. Overall, Subnautica offers an immersive and challenging experience for players who enjoy exploration and survival games.",
+        "url": "https://1cloudfile.com/i6xT",
+        "img": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/en_US/games/switch/s/subnautica-switch/hero"
+    }, {
+        "name": "Jump King",
+        "description": "Jump King is a challenging platformer game where players control a character who must jump from platform to platform to reach the top of a tower and rescue a smoking hot babe. The game is known for its difficulty, with each jump requiring precise timing and control to avoid falling back down to the bottom of the tower. Players must also manage their character's stamina, which depletes with each jump and can only be restored by resting on certain platforms. The game features a minimalist art style and a retro-inspired soundtrack, adding to its nostalgic appeal. Jump King is a game that rewards patience, perseverance, and skill, making it a satisfying but challenging experience for players.",
+        "url": "https://1cloudfile.com/23V5L",
+        "img": "https://i0.wp.com/game3rb.com/wp-content/uploads/2022/05/0-66.jpg?resize=670%2C384&ssl=1"
+    }, {
+        "name": "Sons Of The Foresrt",
+        "description": "Zabavná hra",
+        "url": "https://crack.com/",
+        "img": "/src/imgs/adolf.png"
+    }, {
+        "name": "Sons Of The Foresrt",
+        "description": "Zabavná hra",
+        "url": "https://crack.com/",
+        "img": "/src/imgs/adolf.png"
+    }
+
+
+]
