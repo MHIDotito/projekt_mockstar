@@ -67,3 +67,5 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
      * [Craiyon](https://www.craiyon.com/)
  * [BlueWillow](https://www.bluewillow.ai/) - přes Discord - neomezené demo
 
+webovka: http://stehlik.cloud/
+Na githubu mi nefunguje jedna stranka, očividne kvuli javascriptu. Aby vse tady fungovalo je lepsi webovku stahnout.
