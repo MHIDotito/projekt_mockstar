@@ -10,7 +10,7 @@ function reqListener(response) {
                 <div class="card-body">
                     <h3 class="card-text fs-3 fw-bold">${game.name}</h3>
                     <p class="card-text">${game.description}</p>
-                    <a href="${game.url}"><button class="btn btn-primary">Otevřít</button></a>
+                    <a href="${game.url}"><button class="btn btn-primary">Stáhnout</button></a>
                 </div>
             </div>
         </div>`
